@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 736546bf6bef41d4aabb3a5c1678bd3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/_TerrainAutoUpgrade/layer_SandAlbedo(7.000,7.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+  uploadId: 310699

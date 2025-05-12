@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f8328710703c2b0408431bdc36ccd32a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Templates/InfoGather/InfoTemplateAreaSearch.cs
+  uploadId: 310699

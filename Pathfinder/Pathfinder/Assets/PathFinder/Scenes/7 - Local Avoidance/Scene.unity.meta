@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa16b27f002eb3f468a23d9e055d40ca
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/7 - Local Avoidance/Scene.unity
+  uploadId: 310699

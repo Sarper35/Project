@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1de66850709f7aa4cb026e9b6e9667cb
+timeCreated: 1470239458
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/PathInformation.cs
+  uploadId: 310699

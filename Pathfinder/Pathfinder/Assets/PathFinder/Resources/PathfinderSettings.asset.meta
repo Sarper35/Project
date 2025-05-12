@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ef049dfa442d0940806eb290400bc15
+timeCreated: 1489127105
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Resources/PathfinderSettings.asset
+  uploadId: 310699

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 03207b3b94bcd4c42938d0134f30542e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/NavMeshQuery/Points/NavMeshPointQuery.cs
+  uploadId: 310699

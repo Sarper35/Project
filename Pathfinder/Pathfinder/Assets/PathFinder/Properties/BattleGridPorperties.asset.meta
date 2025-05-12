@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 490bd4bd24514234a83927a5bc952e59
+timeCreated: 1465641213
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Properties/BattleGridPorperties.asset
+  uploadId: 310699

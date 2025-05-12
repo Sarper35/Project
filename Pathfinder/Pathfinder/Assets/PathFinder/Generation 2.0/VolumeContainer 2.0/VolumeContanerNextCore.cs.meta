@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 96e49f59810180f4bb0e8203cb613649
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation 2.0/VolumeContainer 2.0/VolumeContanerNextCore.cs
+  uploadId: 310699

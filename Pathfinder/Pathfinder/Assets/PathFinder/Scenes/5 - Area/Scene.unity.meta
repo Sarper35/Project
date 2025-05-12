@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a4acf0e78f6f0a4e939214aad14a312
+timeCreated: 1500902176
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/5 - Area/Scene.unity
+  uploadId: 310699

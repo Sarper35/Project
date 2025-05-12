@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74fd9d3e3cc861f42a2ef5db41ad941e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/15 - Sample Point/Scene.unity
+  uploadId: 310699

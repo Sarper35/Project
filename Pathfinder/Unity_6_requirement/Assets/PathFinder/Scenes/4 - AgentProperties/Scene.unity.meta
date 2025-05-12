@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb405fac59fb6894ca07414bdbb6d94c
+timeCreated: 1500915713
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/4 - AgentProperties/Scene.unity
+  uploadId: 310699

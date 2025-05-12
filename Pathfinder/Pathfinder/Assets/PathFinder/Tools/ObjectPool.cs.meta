@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 25e3191da9936894b8e101e155a1b1f1
+timeCreated: 1526014997
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Tools/ObjectPool.cs
+  uploadId: 310699

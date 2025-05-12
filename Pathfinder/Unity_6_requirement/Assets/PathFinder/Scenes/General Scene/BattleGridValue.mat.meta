@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26dff2614610528419c80148c75dedeb
+timeCreated: 1482632260
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/BattleGridValue.mat
+  uploadId: 310699

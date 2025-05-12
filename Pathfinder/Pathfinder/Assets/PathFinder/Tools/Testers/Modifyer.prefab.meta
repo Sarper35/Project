@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c2f1cbed07c0e144a29465b749aaf59
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Tools/Testers/Modifyer.prefab
+  uploadId: 310699

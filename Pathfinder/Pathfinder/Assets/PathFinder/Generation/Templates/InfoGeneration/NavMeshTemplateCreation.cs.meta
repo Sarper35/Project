@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8b8b0f66ee18f4e4d8ff30e1e69e1091
+timeCreated: 1519931568
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Templates/InfoGeneration/NavMeshTemplateCreation.cs
+  uploadId: 310699

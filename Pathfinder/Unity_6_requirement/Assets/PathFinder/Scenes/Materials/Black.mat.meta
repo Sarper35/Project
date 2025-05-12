@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c096cdb530f0e44aa8b3a56c61d94cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/Materials/Black.mat
+  uploadId: 310699

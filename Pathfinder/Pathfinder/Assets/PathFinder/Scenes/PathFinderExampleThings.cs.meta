@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3ef3532e696d67448bd79d5950175b98
+timeCreated: 1526507263
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/PathFinderExampleThings.cs
+  uploadId: 310699

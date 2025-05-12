@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ab076534840523f49831606d494dc9cb
+timeCreated: 1519965100
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Templates/InfoGeneration/NavMeshTemplateDestruction.cs
+  uploadId: 310699

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a5e53ed93e8d7b43ba4c5fb9f0cfc81
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Tools/ChunkContentMap/Handles/MyHandles.cs
+  uploadId: 310699

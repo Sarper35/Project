@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 44b1aec3dd8635246b9e7f4384b698ef
+timeCreated: 1485610506
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Volume/VolumeContainer.cs
+  uploadId: 310699

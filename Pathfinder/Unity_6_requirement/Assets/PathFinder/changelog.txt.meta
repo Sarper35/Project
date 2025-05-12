@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82a7971ba8a77ff4ba255e58dea7075b
+timeCreated: 1488781111
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/changelog.txt
+  uploadId: 310699

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 718a4ee1b68eaaf4b8cfed77933e2385
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/12 - Area Search/Scene.asset
+  uploadId: 310699

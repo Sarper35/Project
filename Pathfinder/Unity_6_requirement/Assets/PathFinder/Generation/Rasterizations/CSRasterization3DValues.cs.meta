@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4eedbf87db42f1c4f85ace9c297ca527
+timeCreated: 1496191763
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Rasterizations/CSRasterization3DValues.cs
+  uploadId: 310699

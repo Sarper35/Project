@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d91d6f745a7e0ce4d91ee371dee6e433
+timeCreated: 1497118052
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Editor/ManualSettings.asset
+  uploadId: 310699

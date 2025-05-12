@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8b86792dde914a54a8bcc954250bffa9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation 2.0/ColliderCollector 2.0/ColliderCollectorTerrain.cs
+  uploadId: 310699

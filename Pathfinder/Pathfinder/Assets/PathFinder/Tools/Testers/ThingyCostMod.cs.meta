@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eee0fd1fd21e6d847a65186433ef82cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Tools/Testers/ThingyCostMod.cs
+  uploadId: 310699

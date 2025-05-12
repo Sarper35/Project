@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b8cd2a6d2f8b4642829e8627783caed
+timeCreated: 1494456195
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Tools/Testers/RaycastTester/RaycastTester.prefab
+  uploadId: 310699

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 47caeb78b63a6344891d9bea800fe2f7
+timeCreated: 1494476105
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Editor/Shaders/LineShader.shader
+  uploadId: 310699

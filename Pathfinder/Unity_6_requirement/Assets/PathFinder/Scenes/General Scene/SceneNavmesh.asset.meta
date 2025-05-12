@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0092913cad8813a488413b370a1d9952
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/SceneNavmesh.asset
+  uploadId: 310699

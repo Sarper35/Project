@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d1445c46a4dc77e44822bd852b5e6f42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Serialization/SerializedData/SerializedCover.cs
+  uploadId: 310699

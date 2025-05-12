@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6690933b5b5f77a46a86a79a1ff21ffd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/16 - Door Simple/Scene.unity
+  uploadId: 310699

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e906656ccebd60c438cf6aec7bf49d02
+timeCreated: 1465627617
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Collector/ColliderCollectorAbstract.cs
+  uploadId: 310699

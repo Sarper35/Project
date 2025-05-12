@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4384dad519a5c874e8831b3d2f774a1b
+timeCreated: 1480748066
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/Tree/Tree_Materials/bark.mat
+  uploadId: 310699

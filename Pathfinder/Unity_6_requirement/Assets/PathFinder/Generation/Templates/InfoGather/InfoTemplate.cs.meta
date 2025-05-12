@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 849b020d1248ca64aafacd1e71eb4e3f
+timeCreated: 1472236732
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Templates/InfoGather/InfoTemplate.cs
+  uploadId: 310699

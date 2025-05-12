@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acf5cf5a96fd27949880d3779aa31e75
+timeCreated: 1480747984
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/Tree.prefab
+  uploadId: 310699

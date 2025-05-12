@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02dbf019953284b4db1b1fefacd5223b
+timeCreated: 1482652887
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Properties/AllPropertiesEnabledForDebug.asset
+  uploadId: 310699

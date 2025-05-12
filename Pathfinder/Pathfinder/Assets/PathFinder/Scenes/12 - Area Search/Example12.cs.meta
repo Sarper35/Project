@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0e3a1eee548bbc04d8516f3d4a698428
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/12 - Area Search/Example12.cs
+  uploadId: 310699

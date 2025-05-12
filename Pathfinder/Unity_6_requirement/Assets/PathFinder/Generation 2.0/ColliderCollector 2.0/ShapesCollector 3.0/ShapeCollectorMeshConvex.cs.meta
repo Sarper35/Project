@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 42198d4fbcb3cf24685279f7386d85ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation 2.0/ColliderCollector 2.0/ShapesCollector
+    3.0/ShapeCollectorMeshConvex.cs
+  uploadId: 310699

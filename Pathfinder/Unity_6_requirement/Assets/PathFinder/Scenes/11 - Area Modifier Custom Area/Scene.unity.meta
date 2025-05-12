@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e85af2ea7f755a94b90f3e55a37a4fea
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/11 - Area Modifier Custom Area/Scene.unity
+  uploadId: 310699

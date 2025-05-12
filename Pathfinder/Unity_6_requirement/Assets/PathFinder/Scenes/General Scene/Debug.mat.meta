@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ab0d35894b98bf4ab23f3655f9035ca
+timeCreated: 1480750823
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/Debug.mat
+  uploadId: 310699

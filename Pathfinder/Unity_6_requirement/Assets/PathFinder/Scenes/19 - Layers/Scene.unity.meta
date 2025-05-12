@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5aa7035e85cf594599626da68e73150
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/19 - Layers/Scene.unity
+  uploadId: 310699

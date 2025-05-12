@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cfc1a037c87ff8418c8a751c8ae59cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/14 - Procedural Terrain/ProceduralTerrainAgentProperties.asset
+  uploadId: 310699

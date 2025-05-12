@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c43d793c209b3d44db9349c7b41b0b7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation 2.0/GraphGenerator 2.0/GraphGeneratorNewIterator.cs
+  uploadId: 310699

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1f257d1d873e4a448c07c769e254ff7
+timeCreated: 1465799046
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Resources/MenuSkin.guiskin
+  uploadId: 310699

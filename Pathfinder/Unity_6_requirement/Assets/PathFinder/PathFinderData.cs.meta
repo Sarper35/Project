@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9d5b874a4fe82dd43a84148fa92b3d98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/PathFinderData.cs
+  uploadId: 310699

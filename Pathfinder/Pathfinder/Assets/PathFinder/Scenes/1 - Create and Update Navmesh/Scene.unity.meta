@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1eac4043e77084e4988bbc36fb7cfa7e
+timeCreated: 1500798920
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/1 - Create and Update Navmesh/Scene.unity
+  uploadId: 310699

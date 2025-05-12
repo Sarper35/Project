@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4ac7a57867942348971bff4238f07a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Structs/Bounds2DInt.cs
+  uploadId: 310699

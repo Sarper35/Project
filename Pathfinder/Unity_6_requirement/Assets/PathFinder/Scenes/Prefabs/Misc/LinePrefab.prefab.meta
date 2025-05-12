@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 159b7be9a6da9d441997d0d2aad1d8d2
+timeCreated: 1500907186
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/Prefabs/Misc/LinePrefab.prefab
+  uploadId: 310699

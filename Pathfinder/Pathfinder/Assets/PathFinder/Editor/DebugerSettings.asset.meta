@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a14026ab2097964fb03da5128a69d4b
+timeCreated: 1488860325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Editor/DebugerSettings.asset
+  uploadId: 310699

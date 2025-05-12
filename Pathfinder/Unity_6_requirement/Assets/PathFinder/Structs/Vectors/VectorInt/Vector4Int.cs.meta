@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6cbc91bf037039f43b5b2dcf0a802f05
+timeCreated: 1444553302
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Structs/Vectors/VectorInt/Vector4Int.cs
+  uploadId: 310699

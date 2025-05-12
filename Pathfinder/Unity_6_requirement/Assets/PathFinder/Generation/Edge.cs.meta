@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dc70f12bb425b1041b92c0bd81a745fc
+timeCreated: 1465625464
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Generation/Edge.cs
+  uploadId: 310699

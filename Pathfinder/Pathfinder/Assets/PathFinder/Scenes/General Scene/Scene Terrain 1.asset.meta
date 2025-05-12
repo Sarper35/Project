@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a118f37940fea943bb1586faac6f02c
+timeCreated: 1480746817
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/Scene Terrain 1.asset
+  uploadId: 310699

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 304265d5bc5b4bb429ab745b6dd09044
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/NavMeshQuery/Sample/NavMeshQuerySamplePosition.cs
+  uploadId: 310699

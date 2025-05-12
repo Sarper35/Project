@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 146026800445eed499eea777119e19db
+timeCreated: 1488784844
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Editor/Manual.cs
+  uploadId: 310699

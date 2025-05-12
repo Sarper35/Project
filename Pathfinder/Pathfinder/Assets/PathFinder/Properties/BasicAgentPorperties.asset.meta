@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fa1a3f36725e67408e715f795857fcc
+timeCreated: 1465641213
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Properties/BasicAgentPorperties.asset
+  uploadId: 310699

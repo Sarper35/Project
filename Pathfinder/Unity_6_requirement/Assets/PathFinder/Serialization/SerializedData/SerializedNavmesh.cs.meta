@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 67b34bb5613e8654ebea857e0a73dcdf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Serialization/SerializedData/SerializedNavmesh.cs
+  uploadId: 310699

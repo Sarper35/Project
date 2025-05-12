@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cf661d00768b8e4c81cdd3ccf21e97b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/18 - Point Query/Prefab.prefab
+  uploadId: 310699

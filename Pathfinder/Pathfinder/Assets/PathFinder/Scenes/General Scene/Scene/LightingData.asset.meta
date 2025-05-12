@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e739e7e8deea4bf43a8c778ab36538bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85181
+  packageName: K-PathFinder
+  packageVersion: 0.50
+  assetPath: Assets/PathFinder/Scenes/General Scene/Scene/LightingData.asset
+  uploadId: 310699
